@@ -1,0 +1,15 @@
+{
+  "name": "com.beardphantom.bootstrap",
+  "displayName": "Bootstrap",
+  "version": "6.7.0-exp",
+  "unity": "6000.0",
+  "description": "An async-first bootstrapping framework for Unity projects.",
+  "keywords": [
+    "Core"
+  ],
+  "category": "Framework",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "0.0.0"
+  },
+  "type": "library"
+}

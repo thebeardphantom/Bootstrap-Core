@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e805add9-549d-4a41-926f-de3478837083" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/AsyncUtility.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/IPostBootstrapHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/ISelfInitable.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/IBindable.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/ISelfBindable.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/IInitable.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/Services/ServiceKernel.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/Services/ServiceModule.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/Services/ServiceLocation.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/Services/ServiceLocator.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/ListPool.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/LogTags.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/App.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/Bootstrapper.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/Services/PrefabServiceModule.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/package.json" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Runtime/App.Static.cs" />
+      <option value="$PROJECT_DIR$/Assets/com.beardphantom.fabric-core/Editor/BootstrapperEditorHelper.cs" />
+    </changedPaths>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1pePIjht16j0TUSsIbeUdk7AZ0E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e805add9-549d-4a41-926f-de3478837083" name="Default Changelist" comment="" />
+      <created>1615540508220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615540508220</updated>
+      <workItem from="1615540513828" duration="3266000" />
+      <workItem from="1615842853522" duration="1190000" />
+      <workItem from="1617324169700" duration="2238000" />
+      <workItem from="1622532106193" duration="1021000" />
+      <workItem from="1633208604646" duration="46000" />
+      <workItem from="1633208683205" duration="4469000" />
+      <workItem from="1633279999450" duration="623000" />
+      <workItem from="1635060252288" duration="228000" />
+      <workItem from="1637141262941" duration="668000" />
+      <workItem from="1642069666402" duration="1077000" />
+      <workItem from="1644101978547" duration="1361000" />
+      <workItem from="1644307283535" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
