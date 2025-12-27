@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.beardphantom.bootstrap": {
+    "com.beardphantom.bootstrap-core": {
       "version": "file:com.beardphantom.bootstrap",
       "depth": 0,
       "source": "embedded",
