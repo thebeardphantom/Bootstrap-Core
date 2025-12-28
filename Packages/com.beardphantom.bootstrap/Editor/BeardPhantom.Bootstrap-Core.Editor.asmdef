@@ -1,0 +1,20 @@
+{
+    "name": "BeardPhantom.Bootstrap-Core.Editor",
+    "rootNamespace": "BeardPhantom.Bootstrap.Core.Editor",
+    "references": [
+        "BeardPhantom.Bootstrap-Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
